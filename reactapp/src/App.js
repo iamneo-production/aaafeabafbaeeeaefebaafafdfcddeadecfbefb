@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Hey!!! Greeting</h2>
+      <h2>Hey!!! Gryyyeeting</h2>
       <form onSubmit={handleSubmit} data-testid="form">
         <label data-testid="label">Enter your name: </label>
         <input
